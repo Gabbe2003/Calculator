@@ -1,9 +1,9 @@
-import TodoList from "./todoList.tsx";
+import Calculator from "./Calculator.jsx";
 
 function App() {
   return (
     <>
-      <TodoList></TodoList>
+      <Calculator></Calculator>
     </>
   );
 }
